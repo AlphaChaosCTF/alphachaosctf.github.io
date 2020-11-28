@@ -22,9 +22,9 @@ So we are given the encoded message or ciphertext as `cvpbPGS{guvf_vf_pelcgb!}`
 
 We are also hinted at something called rot13?
 
-And the hint for the challenge also mentions we can solve this challenge online if we don't want todo it by hand.
+And the hint for the challenge also mentions we can solve this challenge online if we don't want to do it by hand.
 
-A quick search for the term rot13 should give you plenty of options for online decoders and explanations of how the cipher works etc. Essentially rot13 will rotate each character by 13 positions, so if we imagine a=1, b=2 etc then rot13 will just add 13 so a+13 would become m (14). if we get a result thats greater than 26 we just take 26 away.. or loop back to the start like on a clock face once we get past 12...
+A quick search for the term rot13 should give you plenty of options for online decoders and explanations of how the cipher works etc. Essentially rot13 will rotate each character by 13 positions, so if we imagine a=1, b=2 etc then rot13 will just add 13 so a+13 would become m (14). If we get a result thats greater than 26 we just take 26 away.. or loop back to the start like on a clock face once we get past 12...
 
 A nice feature of rot 13 is that the encryption and decryption functions are the exact same...
 

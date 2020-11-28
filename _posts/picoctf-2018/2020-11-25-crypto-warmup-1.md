@@ -8,7 +8,7 @@ tags: [basics, picoctf, vigenère, vigenère square, beginner, tutorial]     # T
 
 ### Challenge Description
 
-> Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](../../assets/challs/picoctf2018/table.txt) to solve it?
+> Crypto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](../../assets/challs/picoctf2018/table.txt) to solve it?
 
 ### Hint
 
@@ -62,7 +62,7 @@ The animation above shows how we can decode the first character. Repeat the proc
 
 ### Flag
 
-recovered message is SECRETMESSAGE and we just need to add the flag format to complete the challenge  
+Recovered message is SECRETMESSAGE and we just need to add the flag format to complete the challenge  
 `picoCTF{SECRETMESSAGE}`
 
 ### Scripted Solution
@@ -98,7 +98,7 @@ print ("picoCTF{" + plaintext + "}")
 
 ### Extras
 
-With some more experience or searching you might recognise this type of table as a `Vigenère square` or `Vigenère cipher`. This is common cipher and as such there are plenty of tools online that will encrypt/decrypt these types of ciphers for you, or you may even want to write your own script to do the encryption/decryption functions. These smaller simpler challenges are perfect for practising or improving your scripting skills so I always suggest trying to script them. I've included a basic script you could use as a basis for your own.
+With some more experience or searching you might recognise this type of table as a `Vigenère square` or `Vigenère cipher`. This is a common cipher and as such there are plenty of tools online that will encrypt/decrypt these types of ciphers for you, or you may even want to write your own script to do the encryption/decryption functions. These smaller simpler challenges are perfect for practising or improving your scripting skills so I always suggest trying to script them. I've included a basic script you could use as a basis for your own.
 
 ### Useful Resources
 
