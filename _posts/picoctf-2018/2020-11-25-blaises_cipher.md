@@ -38,13 +38,13 @@ this Time i'm recommending again I'm recommending one of my go to tools and that
 Summary
 --------------------------------
 ciphertext = long section of ciphertext
-Encryption/encoding used = ascii character so some classic cipher likely substitution cipher
-flag format = not the normal so no picoCTF{} part
+Encryption/encoding used = ascii character so some classic cipher, hint indicates likely Vigenère cipher
 ```
 
 ### Challenge Solution
 
 Jumping to the recommending website we can easily decode this vigenère cipher and retrieve the flag.
+![blaise solve](../../assets/challs/picoctf2018/blaise_solve.png){:class="normal"}
 
 ### Flag
 
