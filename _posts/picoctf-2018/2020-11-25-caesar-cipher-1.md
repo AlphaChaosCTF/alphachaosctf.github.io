@@ -10,7 +10,7 @@ tags: [basics, picoctf, beginner, caesar]     # TAG names should always be lower
 
 > This is one of the older ciphers in the books, can you decrypt the [message](../../assets/challs/picoctf2018/ciphertext)?
 
-### Hint
+### Challenge Hint
 
 > caesar cipher [tutorial](https://learncryptography.com/classical-encryption/caesar-cipher)
 
@@ -32,7 +32,7 @@ tutorial: https://learncryptography.com/classical-encryption/caesar-cipher
 
 Again this challenge can be easily done by hand but if you want to advance in CTFs you'll end up using tools and scripts to speed up your challenge solving.
 
-let's use my two recommended online sites Cyberchef and dcode.fr to solve this challenge and then have a quick look what a basic scripted solution might look like.
+Let's use my two recommended online sites Cyberchef and dcode.fr to solve this challenge and then have a quick look what a basic scripted solution might look like.
 
 > Note:  You should have noticed that the outer part of the flag format hasn't been encrypted just the inner message section, so this is the only part we should be trying to decode. `picoCTF{grpqxdllaliazxbpxozfmebotlvlicmr}`
 

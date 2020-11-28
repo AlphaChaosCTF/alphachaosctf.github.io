@@ -10,7 +10,7 @@ tags: [basics, picoctf, rot13, beginner]     # TAG names should always be lowerc
 
 > Cryptography doesn't have to be complicated, have you ever heard of something called rot13? `cvpbPGS{guvf_vf_pelcgb!}`
 
-### Hint
+### Challenge Hint
 
 > This can be solved online if you don't want to do it by hand!
 

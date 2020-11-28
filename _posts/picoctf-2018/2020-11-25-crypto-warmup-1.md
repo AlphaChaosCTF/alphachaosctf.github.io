@@ -10,7 +10,7 @@ tags: [basics, picoctf, vigenère, vigenère square, beginner, tutorial]     # T
 
 > Crypto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](../../assets/challs/picoctf2018/table.txt) to solve it?
 
-### Hint
+### Challenge Hint
 
 > Submit your answer in our competition's flag format. For example, if your answer was 'hello', you would submit 'picoCTF{HELLO}' as the flag.
 Please use all caps for the message.
