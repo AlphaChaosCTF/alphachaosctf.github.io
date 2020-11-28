@@ -27,11 +27,11 @@ Connecting to the remote server also gives us the following ciphertext
 
 So this is another common classic cipher, the Vigenère cipher. We solved a [similar challenge](2020-11-25-crypto-warmup-1.md) earlier in this series, but this time we don't have the key so we we'll need to do some analysis of the ciphertext, before we can brute force this one.
 
-Again the easiest method is to find a good online tool for the job and then add it to our list on online resources.
+Again the easiest method is to find a good online tool for the job and then add it to our list of online resources.
 
-this Time i'm recommending again I'm recommending one of my go to tools and that's the [https://www.boxentriq.com/ website](https://www.boxentriq.com/code-breaking/vigenere-cipher)
+This time I'm recommending one of my go to tools and that's the [https://www.boxentriq.com/ website](https://www.boxentriq.com/code-breaking/vigenere-cipher)
 
-> Another alternative is to use or earlier [dcode.fr](https://dcode.fr) website or  
+> Another alternative is to use our earlier [dcode.fr](https://dcode.fr) website or  
 [https://www.guballa.de/vigenere-solver](https://www.guballa.de/vigenere-solver)
 
 ```commmon
