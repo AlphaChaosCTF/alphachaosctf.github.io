@@ -3,7 +3,7 @@ title: PicoCTF 2018 - rsa-madlibs
 author: AlphaChaos
 date: 2020-11-26 14:00:00 +0000
 categories: [PicoCTF_2018]
-tags: [basics, picoctf, rsa, beginner]     # TAG names should always be lowercase
+tags: [basics, picoctf, rsa, beginner, tutorial]     # TAG names should always be lowercase
 ---
 
 ### Challenge Description
