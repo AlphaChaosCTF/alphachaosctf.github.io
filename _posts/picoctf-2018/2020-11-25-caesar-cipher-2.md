@@ -19,9 +19,9 @@ tags: [basics, picoctf, beginner, caesar, rot47]     # TAG names should always b
 
 So let's look at what information we are given in the challenge.  
 
-OK so again this is very simialar to the [earlier caesar cipher](2020-11-25-caesar-cipher-1.md) challenge we solved. If we look at the ciphertext for this challenge we see `e^Xd8I;pX6ZhVGT8^E]:gHT_jHITVG:cITh:XJg:r`.
+OK so again this is very similar to the [earlier caesar cipher](2020-11-25-caesar-cipher-1.md) challenge we solved. If we look at the ciphertext for this challenge we see `e^Xd8I;pX6ZhVGT8^E]:gHT_jHITVG:cITh:XJg:r`.
 
-> **Hint:** If you remember earlier we mentioned that the normal caesar cipher just rotated over the normal a to z, alphabetical characters, but what if we changed this, what if we wanted to include digits and special characters etc. well it works out we can rotate over all the printable ascii characters (all the ascii characters between 32 and 126). This again is a common cipher known as rot47, similar to how rot13 operates, except over all 94 printable characters so the same function can be used to encrypted and decrypt.  
+> **Hint:** If you remember earlier we mentioned that the normal caesar cipher just rotated over the normal a to z, alphabetical characters, but what if we changed this, what if we wanted to include digits and special characters etc. Well it works out we can rotate over all the printable ascii characters (all the ascii characters between 32 and 126). This again is a common cipher known as rot47, similar to how rot13 operates, except over all 94 printable characters so the same function can be used to encrypt and decrypt.  
 
 ```common
 Summary
@@ -33,7 +33,7 @@ The characters involved in the ciphertext suggest it's rotation over all the pri
 
 ### Challenge Solution
 
-This challenge could be done by hand using the ascii table provided in the hint.Again a more efficient method is to use our earlier recommend tool to solve it for us. So let's look at `Cyberchef` again to solve this one.
+This challenge could be done by hand using the ascii table provided in the hint. Again a more efficient method is to use our earlier recommended tool to solve it for us. So let's look at `Cyberchef` again to solve this one.
 
 We have to rotate though each of the possible 94 values to find the correct rotational value used.
 

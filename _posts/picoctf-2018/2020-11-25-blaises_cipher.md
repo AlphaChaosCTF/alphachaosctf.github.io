@@ -34,7 +34,7 @@ This time I'm recommending one of my go to tools and that's the [https://www.box
 > Another alternative is to use our earlier [dcode.fr](https://dcode.fr) website or  
 [https://www.guballa.de/vigenere-solver](https://www.guballa.de/vigenere-solver)
 
-```commmon
+```common
 Summary
 --------------------------------
 ciphertext = long section of ciphertext

@@ -32,7 +32,7 @@ The table shows us a grid of letters. The table is our hint at how our message m
 
 This particular challenge also gives us a free hint. The hint simply tells us that our final message will need to be put into the flag format `picoCTF{message}`.  In this case the hint doesn't appear to be overly useful, but in some challenges knowing the format of the final message can be extremely useful in solving the challenge, so always pay attention to every piece of information given in the challenge.
 
-```commmon
+```common
 Summary
 --------------------------------
 ciphertext = llkjmlmpadkkc

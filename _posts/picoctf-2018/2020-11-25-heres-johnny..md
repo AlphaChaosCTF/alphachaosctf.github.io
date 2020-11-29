@@ -40,7 +40,7 @@ In this instance the actual challenge title is another subtle hint. `John (the r
 
 > **Hint:** Good challenge creators often leave subtle hints or clues in the challenge title or description or file names. So every bit of information in the challenge should be examined for clues to help you figure out what you're trying to achieve.
 
-```commmon
+```common
 Summary
 ----------------------------------------------
 connection = nc 2018shell.picoctf.com 5221

@@ -30,7 +30,7 @@ A nice feature of rot 13 is that the encryption and decryption functions are the
 
 > **hint:**  This is one of those examples where we can use the flag format to our advantage. You should notice that the ciphertext looks like the same format as our flag format picoCTF{some_message}. Rot13 only changes text characters, numbers and special characters are unchanged.. so you should be able to guess at most of the decrypted flag already.
 
-```commmon
+```common
 Summary
 --------------------------------
 ciphertext = cvpbPGS{guvf_vf_pelcgb!}
